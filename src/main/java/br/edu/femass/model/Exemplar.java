@@ -6,4 +6,5 @@ public class Exemplar {
     Long codigo;
     LocalDate dataAquisicao;
 
+
 }
